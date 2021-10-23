@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="E8B45D1E-4AA0-4912-AD38-661F69947D54" version="0">
+	<info>
+		<title>2021-10-23 Malola Education Online Exam-50 Level II Mains</title>
+		<description/>
+	</info>
+	<files index="id23" thumbnail="id19" totalSize="3961658">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/fonts/fnt4.woff</file>
+		<file id="id8">data/html5-unsupported.html</file>
+		<file id="id9">data/html5.png</file>
+		<file id="id10">data/images/img-3a0e61ff067d3cf13ee044cdd75b9fe9f2d7a19c.png</file>
+		<file id="id11">data/images/img-5947d2a67115fe82f9d652cd29e7ff82edee0aeb.PNG</file>
+		<file id="id12">data/images/img-6b8e39e74a03157cc0b1d97d51bccfe7c4589f45.PNG</file>
+		<file id="id13">data/images/img-a15a71a6116a337e645dc71ebc2613d292013c9c.PNG</file>
+		<file id="id14">data/images/img-a291d380ce872b3adbc9634298dc0a793b2fc170.PNG</file>
+		<file id="id15">data/images/img-bbeb7c191785293fc29aa956fb2988a8d475ba2e.jpg</file>
+		<file id="id16">data/images/img-efc16a98eeb6b3433e9f3b46a18e7037fed2ac44.PNG</file>
+		<file id="id17">data/ismplayer/app_store2x.png</file>
+		<file id="id18">data/ismplayer/play.svg</file>
+		<file id="id19">data/ismplayer/preview.png</file>
+		<file id="id20">data/ismplayer/style.css</file>
+		<file id="id21">data/ismplayer/style_mini.css</file>
+		<file id="id22">data/player.js</file>
+		<file id="id23">index.html</file>
+		<file id="id24">ismplayer.html</file>
+		<file id="id25">preview.png</file>
+	</files>
+</presentation>
+
